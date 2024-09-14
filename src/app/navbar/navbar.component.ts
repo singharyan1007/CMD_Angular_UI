@@ -14,15 +14,7 @@ export class NavbarComponent {
   toggleSidebar() {
     this.sidebarService.toggleSidebar();
   }
-//   isSidebarOpen:boolean=true;
-// toggleSidebar()
-// {
-//   this.isSidebarOpen=!this.isSidebarOpen
-//   const sidebar = document.getElementById('sidebar');
-//   if (sidebar) {
-//     sidebar.classList.toggle('active');
-//   }
-// }
+
 
 
 }
